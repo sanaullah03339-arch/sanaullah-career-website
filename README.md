@@ -2,4 +2,4 @@
 <br>
 A careesrs website for Sanaullah
 <br>
-Auther Sanaullah Khan
+Auther Sanaullah Khan (Apna College)
