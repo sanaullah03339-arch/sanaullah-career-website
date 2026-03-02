@@ -1,3 +1,3 @@
 # sanaullah-career-website
 A careesrs website for Sanaullah
-Auther Sanaullah
+Auther Sanaullah Khan
